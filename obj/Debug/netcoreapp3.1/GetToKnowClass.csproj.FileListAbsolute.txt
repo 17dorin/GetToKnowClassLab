@@ -1,0 +1,13 @@
+C:\Users\17dor\Desktop\GC Slns\GetToKnowClass\GetToKnowClass\bin\Debug\netcoreapp3.1\GetToKnowClass.exe
+C:\Users\17dor\Desktop\GC Slns\GetToKnowClass\GetToKnowClass\bin\Debug\netcoreapp3.1\GetToKnowClass.deps.json
+C:\Users\17dor\Desktop\GC Slns\GetToKnowClass\GetToKnowClass\bin\Debug\netcoreapp3.1\GetToKnowClass.runtimeconfig.json
+C:\Users\17dor\Desktop\GC Slns\GetToKnowClass\GetToKnowClass\bin\Debug\netcoreapp3.1\GetToKnowClass.runtimeconfig.dev.json
+C:\Users\17dor\Desktop\GC Slns\GetToKnowClass\GetToKnowClass\bin\Debug\netcoreapp3.1\GetToKnowClass.dll
+C:\Users\17dor\Desktop\GC Slns\GetToKnowClass\GetToKnowClass\bin\Debug\netcoreapp3.1\GetToKnowClass.pdb
+C:\Users\17dor\Desktop\GC Slns\GetToKnowClass\GetToKnowClass\obj\Debug\netcoreapp3.1\GetToKnowClass.csprojAssemblyReference.cache
+C:\Users\17dor\Desktop\GC Slns\GetToKnowClass\GetToKnowClass\obj\Debug\netcoreapp3.1\GetToKnowClass.AssemblyInfoInputs.cache
+C:\Users\17dor\Desktop\GC Slns\GetToKnowClass\GetToKnowClass\obj\Debug\netcoreapp3.1\GetToKnowClass.AssemblyInfo.cs
+C:\Users\17dor\Desktop\GC Slns\GetToKnowClass\GetToKnowClass\obj\Debug\netcoreapp3.1\GetToKnowClass.csproj.CoreCompileInputs.cache
+C:\Users\17dor\Desktop\GC Slns\GetToKnowClass\GetToKnowClass\obj\Debug\netcoreapp3.1\GetToKnowClass.dll
+C:\Users\17dor\Desktop\GC Slns\GetToKnowClass\GetToKnowClass\obj\Debug\netcoreapp3.1\GetToKnowClass.pdb
+C:\Users\17dor\Desktop\GC Slns\GetToKnowClass\GetToKnowClass\obj\Debug\netcoreapp3.1\GetToKnowClass.genruntimeconfig.cache
