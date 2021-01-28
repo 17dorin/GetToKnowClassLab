@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\17dor\\Desktop\\GC Slns\\GetToKnowClass\\GetToKnowClass\\GetToKnowClass.csproj": {}
+    "C:\\Users\\Nick\\Source\\Repos\\GetToKnowClassLab\\GetToKnowClass.csproj": {}
   },
   "projects": {
-    "C:\\Users\\17dor\\Desktop\\GC Slns\\GetToKnowClass\\GetToKnowClass\\GetToKnowClass.csproj": {
+    "C:\\Users\\Nick\\Source\\Repos\\GetToKnowClassLab\\GetToKnowClass.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\17dor\\Desktop\\GC Slns\\GetToKnowClass\\GetToKnowClass\\GetToKnowClass.csproj",
+        "projectUniqueName": "C:\\Users\\Nick\\Source\\Repos\\GetToKnowClassLab\\GetToKnowClass.csproj",
         "projectName": "GetToKnowClass",
-        "projectPath": "C:\\Users\\17dor\\Desktop\\GC Slns\\GetToKnowClass\\GetToKnowClass\\GetToKnowClass.csproj",
-        "packagesPath": "C:\\Users\\17dor\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\17dor\\Desktop\\GC Slns\\GetToKnowClass\\GetToKnowClass\\obj\\",
+        "projectPath": "C:\\Users\\Nick\\Source\\Repos\\GetToKnowClassLab\\GetToKnowClass.csproj",
+        "packagesPath": "C:\\Users\\Nick\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Nick\\Source\\Repos\\GetToKnowClassLab\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\17dor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Nick\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,7 +29,6 @@
         },
         "frameworks": {
           "netcoreapp3.1": {
-            "targetAlias": "netcoreapp3.1",
             "projectReferences": {}
           }
         },
@@ -41,7 +40,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
           "imports": [
             "net461",
             "net462",
@@ -57,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }

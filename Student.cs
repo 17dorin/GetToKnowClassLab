@@ -10,12 +10,15 @@ namespace GetToKnowClass
         public string Hometown { get; set; }
         public string FavoriteFood { get; set; }
         public string FavoriteColor { get; set; }
+        public int StudentNumber { get; set; }
 
-        public Student(string name, string town, string food)
+        public Student(int number, string name, string town, string food, string color)
         {
             Name = name;
             Hometown = town;
             FavoriteFood = food;
+            StudentNumber = number;
+            FavoriteColor = color;
         }
     }
 }
